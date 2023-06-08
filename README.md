@@ -28,3 +28,5 @@ yang siap untuk di edit. Selain itu, user juga dapat menambahkan data member yan
 ![update](https://github.com/Talitha-Syahla/LP11DPBO2023C2/assets/119799623/64ac5d61-a916-4b0f-91ac-434b0ded6751)
 
 # Simulasi
+
+https://github.com/Talitha-Syahla/LP11DPBO2023C2/assets/119799623/34e53e96-af04-4417-8e8a-53fc8c625427
